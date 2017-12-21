@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="input_username">Nama Pengguna</string>
+    <string name="input_password">Kata Sandi</string>
+    <string name="button_register">Daftar Disini</string>
+    <string name="button_masuk">Masuk</string>
+
+    <string-array name="jenjang">
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA</item>
+        <item>D3</item>
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+    </string-array>
+</resources>
